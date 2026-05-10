@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell -NoProfile -Command ""Set-Clipboard -Value ''""", 0, True
